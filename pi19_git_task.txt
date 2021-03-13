@@ -23,7 +23,7 @@
   git merge master
   
 
-Сценарий работы № 2 //(Наш сценарий)//
+Сценарий работы № 2 (Наш сценарий)
 2.1. Зарегистрироваться на github.com
 2.2. Зайти на 
   https://github.com/sergeyverevkin/pi19
